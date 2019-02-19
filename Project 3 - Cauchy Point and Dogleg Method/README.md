@@ -1,4 +1,4 @@
-# Project 2: Cauchy point and Dogleg method
+# Project 3: Cauchy point and Dogleg method
 
 Description: This project is aim to solve the optimization problems of the Rosenberg function using the trust region method with the implementation of the Dogleg and the Cauchy point method.  
 
